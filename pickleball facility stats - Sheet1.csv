@@ -1,0 +1,206 @@
+date,day_of_week,time_block,program_type,coach,capacity,attended,price,fill_rate,revenue
+3/1,Sunday,Morning,Intermediate Ladder,Powerplay,20,20,$0.00,100%,$0.00
+3/1,Sunday,Morning,Open Play,Powerplay,12,9,$25.00,75%,$50.00
+3/1,Sunday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$275.00
+3/1,Sunday,Evening,SIlly Pickleball Event,Powerplay,50,50,"$1,000.00",100%,"$1,000.00"
+3/2,Monday,Morning,Open Play,Powerplay,12,11,$25.00,92%,$0.00
+3/2,Monday,Morning,Senior Meet-up,Powerplay,36,22,$0.00,61%,$0.00
+3/2,Monday,Morning,Pickleball lab Drop in,Sidd,8,5,$160.00,62.5%,$32.00
+3/2,Monday,Morning,Advanced Semi-Private,Jordan,4,4,$160.00,100%,$32.00
+3/2,Monday,Afternoon,Advanced Ladies Ladder,Jordan,16,12,$20.00,75%,$20.00
+3/2,Monday,Afternoon,Coach Match Play,Christine,4,3,$75.00,75%,$15.00
+3/2,Monday,Evening,Open Play,Powerplay,24,23,$25.00,96%,$100.00
+3/2,Monday,Evening,Advanced Ladies Night,Christine,20,20,$45.00,100%,$9.00
+3/3,Tuesday,Morning,Open Play,Powerplay,20,19,$25.00,95%,$25.00
+3/3,Tuesday,Morning,$10 Non-Member Open Play,Powerplay,40,38,$10.00,95%,$230.00
+3/3,Tuesday,Afternoon,Intermediate Women's Ladder,Kelley,20,17,$20.00,85%,$12.00
+3/3,Tuesday,Afternoon,Two-Ey Tuesday,Tia,4,4,$40.00,100%,$32.00
+3/3,Tuesday,Afternoon,Intermediate Co-Ed Ladder,Kelley,20,20,$20.00,100%,$12.00
+3/3,Tuesday,Evening,Topspin Tactics,Jordan,6,2,$30.00,33%,$12.00
+3/3,Tuesday,Evening,Open Play,Powerplay,28,26,$25.00,95%,$125.00
+3/3,Tuesday,Evening,Beginner Ladder,Sidd,16,16,$140.00,100%,$28.00
+3/3,Tuesday,Evening,$10 Open Play,Powerplay,14,11,$10.00,79%,$100.00
+3/4,Wednesday,Morning,Open Play,Powerplay,25,24,$25.00,96%,$75.00
+3/4,Wednesday,Morning,Senior Meet-up,Powerplay,24,6,$0.00,25%,$0.00
+3/4,Wednesday,Morning,Senior Round Robin,Kelley,20,20,$10.00,100%,$40.00
+3/4,Wednesday,Afternoon,Backhand Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/4,Wednesday,Afternoon,Dialed in Drilling,Tia,4,4,$40.00,100%,$32.00
+3/4,Wednesday,Afternoon,Co-Ed Skills & Drills,Christine,8,2,$20.00,25%,$4.00
+3/4,Wednesday,Afternoon,Open Play,Powerplay,12,3,$25.00,25%,$0.00
+3/4,Wednesday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$100.00
+3/4,Wednesday,Evening,Pickleball lab Drop in,Sidd,8,2,$25.00,25%,$10.00
+3.4,Wednesday,Evening,Intermediate Live Ball,Sidd,7,3,$30.00,43%,$18.00
+3/5,Thursday,Morning,Open Play,Powerplay,20,18,$25.00,90%,$50.00
+3/5,Thursday,Morning,Advanced Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/5,Thursday,Morning,Advanced Ladies Ladder,Christine,20,18,$20.00,90%,$20.00
+3/5,Thursday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,12,$20.00,60%,$12.00
+3/5,Thursday,Evening,Open Play,Powerplay,30,28,$25.00,93%,$250.00
+3/5,Thursday,Evening,Advanced beginner to low intermediate ladder,Powerplay,12,11,$20.00,96%,$0.00
+3/6,Friday,Morning,Open Play,Powerplay,24,24,$25.00,100%,$100.00
+3/6,Friday,Morning,Senior Meet-up,Powerplay,20,14,$0.00,70%,$0.00
+3/6,Friday,Morning,3&me,Tia,3,3,$50.00,100%,$30.00
+3/6,Friday,Morning,Skills & Drills,Christine,6,3,$35.00,50%,$12.00
+3/6,Friday,Morning,Advanced Beginner Lesson,Kelley,4,4,$45.00,100%,$36.00
+3/6,Friday,Morning,Intermediate Ladder,Christine,20,20,$25.00,100%,$0.00
+3/6,Friday,Afternoon,Mastering Womens Doubles,Tia,4,4,$40.00,100%,$32.00
+3/6,Friday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,19,$25.00,95%,$15.00
+3/6,Friday,Evening,Junior Pickleball Fundamentals,Matt,12,8,$30.00,66%,$48.00
+3/6,Friday,Evening,Friday Night Lights,Powerplay,82,82,$20.00,100%,$700.00
+3/7,Saturday,Morning,$15 Open Play,Powerplay,40,40,$10.00,100%,$150.00
+3/7,Saturday,Morning,Intro To Pickleball,Powerplay,8,8,$10.00,100%,$16.00
+3/7,Saturday,Morning,Beginner Meet-up,Powerplay,8,8,$10.00,100%,$16.00
+3/7,Saturday,Morning,Advanced beginner to low intermediate ladder,Powerplay,12,12,$20.00,100%,$12.00
+3/7,Saturday,Afternoon,Open Play,Powerplay,32,32,$25.00,100%,$270.00
+3/7,Saturday,Evening,$10 Open Play,Powerplay,60,60,$10.00,100%,$350.00
+3/8,Sunday,Morning,Intermediate Ladder,Powerplay,20,20,$0.00,100%,$0.00
+3/8,Sunday,Morning,Open Play,Powerplay,12,9,$25.00,75%,$50.00
+3/8,Sunday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$275.00
+3/8,Sunday,Evening,SIlly Pickleball Event,Powerplay,50,50,"$1,000.00",100%,"$1,000.00"
+3/9,Monday,Morning,Open Play,Powerplay,12,11,$25.00,92%,$0.00
+3/9,Monday,Morning,Senior Meet-up,Powerplay,36,22,$0.00,61%,$0.00
+3/9,Monday,Morning,Pickleball lab Drop in,Sidd,8,5,$160.00,62.5%,$32.00
+3/9,Monday,Morning,Advanced Semi-Private,Jordan,4,4,$160.00,100%,$32.00
+3/9,Monday,Afternoon,Advanced Ladies Ladder,Jordan,16,12,$20.00,75%,$20.00
+3/9,Monday,Afternoon,Coach Match Play,Christine,4,3,$75.00,75%,$15.00
+3/9,Monday,Evening,Open Play,Powerplay,24,23,$25.00,96%,$100.00
+3/9,Monday,Evening,Advanced Ladies Night,Christine,20,20,$45.00,100%,$9.00
+3/10,Tuesday,Morning,Open Play,Powerplay,20,19,$25.00,95%,$25.00
+3/10,Tuesday,Morning,$10 Non-Member Open Play,Powerplay,40,38,$10.00,95%,$230.00
+3/10,Tuesday,Afternoon,Intermediate Women's Ladder,Kelley,20,17,$20.00,85%,$12.00
+3/10,Tuesday,Afternoon,Two-Ey Tuesday,Tia,4,4,$40.00,100%,$32.00
+3/10,Tuesday,Afternoon,Intermediate Co-Ed Ladder,Kelley,20,20,$20.00,100%,$12.00
+3/10,Tuesday,Evening,Topspin Tactics,Jordan,6,2,$30.00,33%,$12.00
+3/10,Tuesday,Evening,Open Play,Powerplay,28,26,$25.00,95%,$125.00
+3/10,Tuesday,Evening,Beginner Ladder,Sidd,16,16,$140.00,100%,$28.00
+3/10,Tuesday,Evening,$10 Open Play,Powerplay,14,11,$10.00,79%,$100.00
+3/11,Wednesday,Morning,Open Play,Powerplay,25,20,$25.00,80%,$25.00
+3/11,Wednesday,Morning,Senior Meet-up,Powerplay,24,6,$0.00,25%,$0.00
+3/11,Wednesday,Morning,Senior Round Robin,Kelley,20,20,$10.00,100%,$40.00
+3/11,Wednesday,Afternoon,Backhand Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/11,Wednesday,Afternoon,Dialed in Drilling,Tia,4,4,$40.00,100%,$32.00
+3/11,Wednesday,Afternoon,Co-Ed Skills & Drills,Christine,8,2,$20.00,25%,$4.00
+3/11,Wednesday,Afternoon,Open Play,Powerplay,12,1,$25.00,8%,$0.00
+3/11,Wednesday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$100.00
+3/11,Wednesday,Evening,Pickleball lab Drop in,Sidd,8,2,$25.00,25%,$10.00
+3/11,Wednesday,Evening,Intermediate Live Ball,Sidd,7,4,$30.00,57%,$24.00
+3/12,Thursday,Morning,Open Play,Powerplay,20,18,$25.00,90%,$50.00
+3/12,Thursday,Morning,Advanced Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/12,Thursday,Morning,Advanced Ladies Ladder,Christine,20,18,$20.00,90%,$20.00
+3/12,Thursday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,12,$20.00,60%,$12.00
+3/12,Thursday,Evening,Open Play,Powerplay,30,28,$25.00,93%,$250.00
+3/12,Thursday,Evening,Advanced beginner to low intermediate ladder,Powerplay,12,11,$20.00,96%,$0.00
+3/13,Friday,Morning,Open Play,Powerplay,24,24,$25.00,100%,$100.00
+3/13,Friday,Morning,Senior Meet-up,Powerplay,20,14,$0.00,70%,$0.00
+3/13,Friday,Morning,3&me,Tia,3,3,$50.00,100%,$30.00
+3/13,Friday,Morning,Skills & Drills,Christine,6,2,$35.00,33%,$10.00
+3/13,Friday,Morning,Advanced Beginner Lesson,Kelley,4,4,$45.00,100%,$36.00
+3/13,Friday,Morning,Intermediate Ladder,Christine,20,20,$25.00,100%,$0.00
+3/13,Friday,Afternoon,Mastering Womens Doubles,Tia,4,4,$40.00,100%,$32.00
+3/13,Friday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,19,$25.00,95%,$15.00
+3/13,Friday,Evening,Junior Pickleball Fundamentals,Matt,12,6,$30.00,50%,$36.00
+3/13,Friday,Evening,Friday Night Lights,Powerplay,82,82,$20.00,100%,$800.00
+3/14,Saturday,Morning,$15 Open Play,Powerplay,40,35,$10.00,88%,$100.00
+3/14,Saturday,Morning,Intro To Pickleball,Powerplay,7,8,$10.00,88%,$14.00
+3/14,Saturday,Morning,Beginner Meet-up,Powerplay,8,8,$10.00,100%,$16.00
+3/14,Saturday,Morning,Advanced beginner to low intermediate ladder,Powerplay,12,12,$20.00,100%,$12.00
+3/14,Saturday,Afternoon,Open Play,Powerplay,32,28,$25.00,88%,$200.00
+3/14,Saturday,Evening,$10 Open Play,Powerplay,60,60,$10.00,100%,$300.00
+3/15,Sunday,Morning,Intermediate Ladder,Powerplay,20,20,$0.00,100%,$0.00
+3/15,Sunday,Morning,Open Play,Powerplay,12,9,$25.00,75%,$50.00
+3/15,Sunday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$275.00
+3/15,Sunday,Evening,SIlly Pickleball Event,Powerplay,50,50,"$1,000.00",100%,"$1,000.00"
+3/16,Monday,Morning,Open Play,Powerplay,12,11,$25.00,92%,$0.00
+3/16,Monday,Morning,Senior Meet-up,Powerplay,36,22,$0.00,61%,$0.00
+3/16,Monday,Morning,Pickleball lab Drop in,Sidd,8,5,$160.00,62.5%,$32.00
+3/16,Monday,Morning,Advanced Semi-Private,Jordan,4,4,$160.00,100%,$32.00
+3/16,Monday,Afternoon,Advanced Ladies Ladder,Jordan,16,12,$20.00,75%,$20.00
+3/16,Monday,Afternoon,Coach Match Play,Christine,4,3,$75.00,75%,$15.00
+3/16,Monday,Evening,Open Play,Powerplay,24,20,$25.00,83%,$75.00
+3/16,Monday,Evening,Advanced Ladies Night,Christine,20,20,$45.00,100%,$9.00
+3/17,Tuesday,Morning,Open Play,Powerplay,20,19,$25.00,95%,$25.00
+3/17,Tuesday,Morning,$10 Non-Member Open Play,Powerplay,40,38,$10.00,95%,$230.00
+3/17,Tuesday,Afternoon,Intermediate Women's Ladder,Kelley,20,16,$20.00,80%,$10.00
+3/17,Tuesday,Afternoon,Two-Ey Tuesday,Tia,4,4,$40.00,100%,$32.00
+3/17,Tuesday,Afternoon,Intermediate Co-Ed Ladder,Kelley,20,20,$20.00,100%,$12.00
+3/17,Tuesday,Evening,Topspin Tactics,Jordan,6,4,$30.00,67%,$24.00
+3/17,Tuesday,Evening,Open Play,Powerplay,28,26,$25.00,95%,$125.00
+3/17,Tuesday,Evening,Beginner Ladder,Sidd,16,16,$140.00,100%,$28.00
+3/17,Tuesday,Evening,$10 Open Play,Powerplay,14,14,$10.00,100%,$50.00
+3/18,Wednesday,Morning,Open Play,Powerplay,25,24,$25.00,96%,$75.00
+3/18,Wednesday,Morning,Senior Meet-up,Powerplay,24,10,$0.00,42%,$0.00
+3/18,Wednesday,Morning,Senior Round Robin,Kelley,20,20,$10.00,100%,$40.00
+3/18,Wednesday,Afternoon,Backhand Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/18,Wednesday,Afternoon,Dialed in Drilling,Tia,4,4,$40.00,100%,$32.00
+3/18,Wednesday,Afternoon,Co-Ed Skills & Drills,Christine,8,2,$20.00,25%,$4.00
+3/18,Wednesday,Afternoon,Open Play,Powerplay,12,2,$25.00,16%,$0.00
+3/18,Wednesday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$100.00
+3/18,Wednesday,Evening,Pickleball lab Drop in,Sidd,8,2,$25.00,25%,$10.00
+3/18,Wednesday,Evening,Intermediate Live Ball,Sidd,7,3,$30.00,43%,$18.00
+3/19,Thursday,Morning,Open Play,Powerplay,20,18,$25.00,90%,$50.00
+3/19,Thursday,Morning,Advanced Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/19,Thursday,Morning,Advanced Ladies Ladder,Christine,20,18,$20.00,90%,$20.00
+3/19,Thursday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,12,$20.00,60%,$12.00
+3/19,Thursday,Evening,Open Play,Powerplay,30,28,$25.00,93%,$250.00
+3/19,Thursday,Evening,Advanced beginner to low intermediate ladder,Powerplay,12,11,$20.00,96%,$0.00
+3/20,Friday,Morning,Open Play,Powerplay,24,24,$25.00,100%,$100.00
+3/20,Friday,Morning,Senior Meet-up,Powerplay,20,14,$0.00,70%,$0.00
+3/20,Friday,Morning,3&me,Tia,3,3,$50.00,100%,$30.00
+3/20,Friday,Morning,Skills & Drills,Christine,6,3,$35.00,50%,$12.00
+3/20,Friday,Morning,Advanced Beginner Lesson,Kelley,4,4,$45.00,100%,$36.00
+3/20,Friday,Morning,Intermediate Ladder,Christine,20,20,$25.00,100%,$0.00
+3/20,Friday,Afternoon,Mastering Womens Doubles,Tia,4,4,$40.00,100%,$32.00
+3/20,Friday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,19,$25.00,95%,$15.00
+3/20,Friday,Evening,Junior Pickleball Fundamentals,Matt,12,8,$30.00,66%,$48.00
+3/20,Friday,Evening,Friday Night Lights,Powerplay,82,82,$20.00,100%,$750.00
+3/21,Saturday,Morning,$15 Open Play,Powerplay,40,40,$10.00,100%,$150.00
+3/21,Saturday,Morning,Intro To Pickleball,Powerplay,8,8,$10.00,100%,$16.00
+3/21,Saturday,Morning,Beginner Meet-up,Powerplay,8,8,$10.00,100%,$16.00
+3/21,Saturday,Morning,Advanced beginner to low intermediate ladder,Powerplay,12,12,$20.00,100%,$12.00
+3/21,Saturday,Afternoon,Open Play,Powerplay,32,32,$25.00,100%,$270.00
+3/21,Saturday,Evening,$10 Open Play,Powerplay,60,60,$10.00,100%,$350.00
+3/22,Monday,Morning,Advanced Semi-Private,Jordan,4,4,$160.00,100%,$32.00
+3/22,Monday,Afternoon,Advanced Ladies Ladder,Jordan,16,12,$20.00,75%,$20.00
+3/22,Monday,Afternoon,Coach Match Play,Christine,4,3,$75.00,75%,$15.00
+3/22,Monday,Evening,Open Play,Powerplay,24,20,$25.00,83%,$75.00
+3/22,Monday,Evening,Advanced Ladies Night,Christine,20,20,$45.00,100%,$9.00
+3/23,Tuesday,Morning,Open Play,Powerplay,20,19,$25.00,95%,$25.00
+3/23,Tuesday,Morning,$10 Non-Member Open Play,Powerplay,40,38,$10.00,95%,$230.00
+3/23,Tuesday,Afternoon,Intermediate Women's Ladder,Kelley,20,16,$20.00,80%,$10.00
+3/23,Tuesday,Afternoon,Two-Ey Tuesday,Tia,4,4,$40.00,100%,$32.00
+3/23,Tuesday,Afternoon,Intermediate Co-Ed Ladder,Kelley,20,20,$20.00,100%,$12.00
+3/23,Tuesday,Evening,Topspin Tactics,Jordan,6,4,$30.00,67%,$24.00
+3/23,Tuesday,Evening,Open Play,Powerplay,28,26,$25.00,95%,$125.00
+3/23,Tuesday,Evening,Beginner Ladder,Sidd,16,16,$140.00,100%,$28.00
+3/23,Tuesday,Evening,$10 Open Play,Powerplay,14,14,$10.00,100%,$50.00
+3/24,Wednesday,Morning,Open Play,Powerplay,25,24,$25.00,96%,$75.00
+3/24,Wednesday,Morning,Senior Meet-up,Powerplay,24,10,$0.00,42%,$0.00
+3/24,Wednesday,Morning,Senior Round Robin,Kelley,20,20,$10.00,100%,$40.00
+3/24,Wednesday,Afternoon,Backhand Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/24,Wednesday,Afternoon,Dialed in Drilling,Tia,4,4,$40.00,100%,$32.00
+3/24,Wednesday,Afternoon,Co-Ed Skills & Drills,Christine,8,2,$20.00,25%,$4.00
+3/24,Wednesday,Afternoon,Open Play,Powerplay,12,2,$25.00,16%,$0.00
+3/24,Wednesday,Evening,Open Play,Powerplay,20,20,$25.00,100%,$100.00
+3/24,Wednesday,Evening,Pickleball lab Drop in,Sidd,8,2,$25.00,25%,$10.00
+3/24,Wednesday,Evening,Intermediate Live Ball,Sidd,7,3,$30.00,43%,$18.00
+3/25,Thursday,Morning,Open Play,Powerplay,20,15,$25.00,60%,$25.00
+3/25,Thursday,Morning,Advanced Skills & Drills,Christine,6,3,$10.00,50%,$6.00
+3/25,Thursday,Morning,Advanced Ladies Ladder,Christine,20,18,$20.00,90%,$20.00
+3/25,Thursday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,12,$20.00,60%,$12.00
+3/25,Thursday,Evening,Open Play,Powerplay,30,30,$25.00,100%,$275.00
+3/25,Thursday,Evening,Advanced beginner to low intermediate ladder,Powerplay,12,11,$20.00,96%,$0.00
+3/26,Friday,Morning,Open Play,Powerplay,24,20,$25.00,83%,$75.00
+3/26,Friday,Morning,Senior Meet-up,Powerplay,20,14,$0.00,70%,$0.00
+3/26,Friday,Morning,3&me,Tia,3,3,$50.00,100%,$30.00
+3/26,Friday,Morning,Skills & Drills,Christine,6,3,$35.00,50%,$12.00
+3/26,Friday,Morning,Advanced Beginner Lesson,Kelley,4,2,$45.00,50%,$18.00
+3/26,Friday,Morning,Intermediate Ladder,Christine,20,20,$25.00,100%,$0.00
+3/26,Friday,Afternoon,Mastering Womens Doubles,Tia,4,4,$40.00,100%,$32.00
+3/26,Friday,Afternoon,Intermediate to Advanced Co-Ed Ladder,Christine,20,19,$25.00,95%,$15.00
+3/26,Friday,Evening,Junior Pickleball Fundamentals,Matt,12,4,$30.00,33%,$24.00
+3/26,Friday,Evening,Friday Night Lights,Powerplay,82,82,$20.00,100%,$680.00
+3/27,Saturday,Morning,$15 Open Play,Powerplay,40,40,$10.00,100%,$150.00
+3/27,Saturday,Morning,Intro To Pickleball,Powerplay,8,8,$10.00,100%,$16.00
+3/27,Saturday,Morning,Beginner Meet-up,Powerplay,8,8,$10.00,100%,$16.00
+3/27,Saturday,Morning,Advanced beginner to low intermediate ladder,Powerplay,12,12,$20.00,100%,$12.00
+3/27,Saturday,Afternoon,Open Play,Powerplay,32,32,$25.00,100%,$270.00
+3/27,Saturday,Evening,$10 Open Play,Powerplay,60,60,$10.00,100%,$300.00
